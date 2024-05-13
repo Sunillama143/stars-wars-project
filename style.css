@@ -1,0 +1,35 @@
+/* Style for the container holding the data */
+.star-wars-container {
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 5px;
+  }
+  
+  /* Style for the title */
+  .star-wars-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Style for the list of items */
+  .star-wars-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  /* Style for each item in the list */
+  .star-wars-item {
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the item label */
+  .star-wars-label {
+    font-weight: bold;
+  }
+  
+  /* Style for the item value */
+  .star-wars-value {
+    margin-left: 10px;
+  }
+  
